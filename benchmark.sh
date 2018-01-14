@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # The example/benchmark file names
 files=(specs recursive parallel walk)
 
